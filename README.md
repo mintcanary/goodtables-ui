@@ -1,4 +1,6 @@
-# goodtables-ui
+# Goodtables Mockup V1
+
+For current version, see https://github.com/smth/goodtables
 
 > Nuxt.js project
 
